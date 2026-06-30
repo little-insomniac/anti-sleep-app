@@ -1,0 +1,26 @@
+{
+  "name": "little-insomniac-anti-sleep-app",
+  "version": "1.0.0",
+  "description": "Anti Sleep App a lightweight app that prevents your Mac, Windows, or Linux computer from going to sleep",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "anti-sleep",
+    "no-sleep",
+    "prevent-sleep",
+    "keep-awake",
+    "desktop-app",
+    "electron",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Little Insomniac",
+  "license": "ISC",
+  "homepage": "https://littleinsomniac.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/little-insomniac/anti-sleep-app.git"
+  }
+}
